@@ -1,6 +1,5 @@
 -----------------------------------------------------------
 Readme for Final Project of ECE5544 Compiler Optimization
-Group: Rohit Mehta, Shambhavi Kuthe
 -----------------------------------------------------------
 Instructions:
 Extract the zip file in llvm-project/llvm/lib/Transforms
